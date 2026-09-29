@@ -1,1 +1,24 @@
-Project description
+Project description step by step
+Step 1: Read the project desciption document Challenge_Orange_ROADEF_2026_Subject.pdf and understand it.
+Step 2: 
+	Use the pluto script to obtain the graph G at time period 0 from the json file
+Step 3: 
+	Read the file calculating_r.pdf to calculate r[i,j,a,0]
+Step 4: 
+	Create une section Data that calculates the parameters of the model from the 3 json files : 
+	r(i,j,a,0] and c(a) from the net file, v(d,0) from the tm file, MaxSeg from the scenario file
+Step 5: 
+	Implement the model only for the time period 0, so there is no budget constraints (constraint (4))
+Step 6: 
+	Perform numerical experiments for the SetA instances for only time period 0, set a time limit of 
+	30 minutes = 1800 seconds. Report the numerical results on Tables with the following informations : number of vertices,
+	number of links, number of demands, Optimal or Best objective value, CPU time (time of execution of the optimize! call only), status (Optimal, Not Optimal, Infeasible), 
+	if not Optimal, report the gap=1.0- (Best known lower bound)/value best known solution.
+
+Step 7: Create the graph at time period 1 and calculate the parameters for this time period
+Step 8:	Extend the model to include the time period 1 with the addition of the Budget constraints.
+Step 9 : Perform numerical experiments for the SetA instances for only time period 0, set a time limit of 
+	1 hour = 3600 seconds. Report the numerical results on Tables with the following informations : number of vertices,
+	number of links, number of demands, Optimal or Best Objective value, CPU time (time of execution of the optimize! call only), status (Optimal, Not Optimal, Infeasible), 
+	if not Optimal, report the gap=1.0 - (Best known lower bound)/value best known solution.
+ 
