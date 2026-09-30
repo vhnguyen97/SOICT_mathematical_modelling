@@ -5,5 +5,6 @@
     - Combinatorial Optimization (W. Cook, W. Cunningham, W. Pulleyblank)
     - Integer Programming (Giacomo Zambelli, Michele Conforti, Gérard Cornuéjols)
     - Convex Optimization (S. Boyd, L. Vandenberghe): https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
-    - Introduction to Stochastic Programming (J.R. Birge) 
+    - Introduction to Stochastic Programming (J.R. Birge, F. Louveaux) 
     - Robust Optimization (Aharon Ben-Tal, Laurent El Ghaoui, Arkadi Nemirovski): https://www2.isye.gatech.edu/~nemirovs/FullBookDec11.pdf 
+    - Optimization for Data Analysis (S. Wright)
