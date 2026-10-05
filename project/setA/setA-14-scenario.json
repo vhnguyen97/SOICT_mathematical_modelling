@@ -1,0 +1,17 @@
+{
+  "max_segments": 6,
+  "budget": [
+    {
+      "t": 1,
+      "value": 13
+    }
+  ],
+  "interventions": [
+    {
+      "t": 1,
+      "links": [
+        901
+      ]
+    }
+  ]
+}
