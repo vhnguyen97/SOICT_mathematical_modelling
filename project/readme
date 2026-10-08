@@ -1,5 +1,14 @@
 Please register your projet up to friday 9th October the latest at
 https://docs.google.com/forms/d/e/1FAIpQLSclhuBchGNwRlccBV-UhNbvAXSuB6-QTnRybjj-iDirt5C2Ug/viewform
+
+Deliverables by Sunday 25th October
+- A report up to ten pages : 
+	Introduction: context, motivation, problem's desciption. 
+	Mathematical model: Data, Variables, Objective, Constraints with detailled explanations.
+	Numerical expriments : 	Instances description, Code running environnment, 
+							tables of numerical results: Report average on ten runs the informations about  
+							instances, CPUtime, Gap, Number of nodes of branch-and-bound trees   
+
 Project Orange description step by step
 Step 1: Read the project desciption document Challenge_Orange_ROADEF_2026_Subject.pdf and understand it.
 Step 2: 
